@@ -1,0 +1,63 @@
+body{
+background: rgba(0, 0, 0, 0.6);
+}
+.my-box{
+    background-color: #C0C0C0;
+    margin: auto;
+    margin-top: 6%;
+    width: 500px;
+    height: 600px;
+    border: 10px solid #9E9E9E;
+  }
+#display{
+  padding-bottom: 2%;
+  font-size: 40px;
+}
+.bar{
+  width: 300px;
+  height: 1px;
+  background-color: black;
+  margin-left: auto;
+  margin-right: auto;
+}
+.d-flex{
+  padding-top:1%;
+  text-align: center;
+}
+.btn{
+  margin:0 15px;
+  font-size: 18px;
+}
+.insta{
+  height: 30px;
+  width: 1px;
+  background: white;
+}
+.brand{
+  text-decoration: none;
+  font-size: 25px;
+  color: white;
+}
+.human{
+  font-size: 30px;
+}
+h1{
+  font-size: 30px;
+}
+.left {
+  font-size: 20px;
+  float: left;
+}
+
+.right {
+  font-size: 20px;
+  float: right;
+}
+.purcent-human{
+  font-size: 20px;
+  float: left;
+}
+.purcent-robot{
+  font-size: 20px;
+  float: right;
+}
